@@ -1,4 +1,4 @@
-simsam
-======
+Modelesso
+=========
 
-SIMS Automation Module
+Modelesso is a Business Process Modelling Tool
