@@ -8,7 +8,7 @@
     <img src="Images/simsbanner.jpg" alt="lovely kids" class="main-image"/>
     </div>
         <div id="main-content" class="main-content">
-          <h1 id="page-title">Welcome to SIMS Automation Module</h1>                                
+          <h1 id="page-title">Modellesso Business Modelling System</h1>                                
              <p>SIMS (School Information Management System) is a world-class management information system used by over 22,000 schools in England, Wales and Northern Ireland.
              It's a great product, but like all good things, there's room for improvement, that's where the SIMS Automation Module (SIMSAM) comes in.
              </p>
